@@ -12,6 +12,7 @@ Sample website with plenty of files for demos with simple examples.
 This is a simple web project that can be deployed on any web server or even a local system.
 
 ## How to Contribute
+Please fork this repository and issue Pull Requests for the review.
 
 ## Copyright
 2023 codish13.
