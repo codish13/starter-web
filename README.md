@@ -16,4 +16,4 @@ This is a simple web project that can be deployed on any web server or even a lo
 Please fork this repository and issue Pull Requests for the review.
 
 ## Copyright
-2023 codish13.
+2023 codish13. All Rights Reserved.
