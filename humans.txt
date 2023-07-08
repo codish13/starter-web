@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ishita Mishra	ishita.mishra@adidas.com	@codish13
 
 # THANKS
 
